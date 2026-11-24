@@ -1,0 +1,4 @@
+1. [132 chars] Fixed the one broken link in the onboarding doc at 2 a.m., rechecked every other link, and left the page clean for the morning team.
+2. [115 chars] Verified 47 invoice totals against their receipts, found one 12-cent mismatch, and corrected it before payroll ran.
+3. [104 chars] Renamed 312 mislabeled photos so the archive search finally finds the 2019 field trip in a single query.
+4. [115 chars] Caught the expired API key in the nightly backup job, rotated it, and the 3 a.m. backup ran without a single alert.
